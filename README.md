@@ -2,7 +2,7 @@
 REST API to Access Customer Database
 
 STEPS TO TEST :
-	Import the Project from Github in NetBeans IDE/n
+	Import the Project from Github in NetBeans IDE
 	Right Click -> Clean &Build
 	Right Click -> Test Restful WebServices
 
